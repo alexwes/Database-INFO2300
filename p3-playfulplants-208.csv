@@ -1,0 +1,53 @@
+Plant Name (Colloquial),Swamp Azalea (Clammy Azalea),Bronze Fennel,Soapwort,3 Sisters-Squash,"Iris, tall bearded",Sugar Maple,3 Sisters-Beans,Common Strawberry,Trumpet creeper,Star Magnolia,American Holly,Dill,Bunchberry,Windflower,London Plane Tree,Fringe Tree
+"Plant Name (Genus, Species)",Rhododendron viscosum,Foeniculum vulgare 'Purpureum',Saponaria officinalis,Cucurbita pepo,"Iris, 'Florentina'",Acer saccharum ,Phaseolus vulgaris,Fragaria virginiana,Campsis radicans,Magnolia stellata,Ilex opaca,Anethum graveolens,Cornus canadensis,Anemone canadensis,Platanus x acerfolia ,Chionanthus virginicus
+Plant ID,SH_30,FL_16,GR_17,FE_09,FL_31,TR_25,FE_08,GR_22,VI_14,TR_10,TR_28,FL_15,GR_21,GR_23,TR_36,TR_02
+SENSORY PLAY PLANTS,,,,,,,,,,,,,,,,
+Edible [PRESENT],,X,~,X,~,X,X,X,,X,,X,X,,,X
+Taste [DESCRIPTION],,,Sweet treat in small quantities but toxic in large quantities,"Edible once cooked, can eat squash blossoms",Taste disgusting and the bulbs are poisonous,Seeds can be removed from the samaras and eaten raw or roasted. The trees could be tapped and you can drink the sap straight from the tree or boil it down into maple syrup,,Sweet,,"Blossoms eaten pickled. Young leaves edible when cooked, but not desireable.",,,"Sweet, very dry and mealy, best dried like raisins",,Fruits are possibly edible,"Fruit is edible when pickled, like an olive"
+Produces Scent [PRESENT],X,X,X,,X,,,,,X,X,X,,,,X
+Scent [DESCRIPTION],Sweet flower,,Fragrant,,Fragrant,,,,,Sweet smelling plant,Sweet flowers,,,,,Flowers have a sweet scent
+Produces Sound [PRESENT],,,,,,X,,,,,,,,,,
+Sound [DESCRIPTION],,,,,,,,,,,,,,,,
+Provides Tactile Experience [PRESENT],X,X,,,,,,,,,X,X,X,X,,X
+Tactile [DESCRIPTION],Glossy leaves.,Soft.,,,,"Smooth bark, play parts.",,,,,Spiny leathery leaves.,Soft.,"Veined, textured oval leaves ","Hairy, sharply-toothed leaves",,Fluffy flowers.
+Provides Visual Interest [PRESENT],X,X,X,,X,X,,X,X,X,X,X,X,X,X,X
+Visual Interest [DESCRIPTION],"Flowers are star shaped, fall color yellow orange and purple",Interesting coloration. Blue green leaves with coppery-yellow flowers.,"Showy flowers, generally small and pink",,"White-tinged, blue to grey flowers",,,"3 green leaves, numerous white flowers mature to red fruit","Vibrant orange, trumpet looking flowers",White flowers,"Red berries, evergreen winter color","Yellow and green, fluffy appearance","Berries are red, the plant resembles dogwood trees. Oval leaves dark green. flower consists of four oval petals. White flowers.","Buttercup family, showy colorful flowers","Varigated leaves, small white flowers","Fluffy white flowers appear on male trees. Females have less remarkable flowers. Tree leaves turn yellow in the fall. Female fruits are a dark blue in late summer. In the winter, the branches have an interesting configuration and the bark is smooth, gray, and rigid."
+Geometric Visual Interest [PRESENT],"X- flowers are star shaped, fall color yellow orange and purple",,,,,,,,,,,,X,,,
+Geometric Visual Interest [DESCRIPTION],Star shaped flowers,,,,,,,,,,,,Oval leaves,,,
+TOPO - PLAY TYPE CATEGORIZATION,,,,,,,,,,,,,,,,
+Supports Exploratory Constructive Play [PRESENT] ,,,,,,X,,,,X,X,,,,,X
+Supports Exploratory Constructive Play [DESCRIPTION],,,,,,,,,,,,,,,,
+Supports Exploratory Sensory Play [PRESENT] ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+Supports Physical Play [PRESENT] ,X,,X,,X,X,X,X,X,X,X,,X,X,X,X
+Supports Physical Play [DESCRIPTION] ,Fine motor,,Fine motor,,Fine motor,"Gross motor, vestibular, fine motor",Fine motor,Fine motor,Fine motor,"Gross motor, vestibular, fine motor",Fine motor,,Fine motor,Fine motor,"Gross motor, vestibular, fine motor",Fine motor
+Supports Imaginative Play [PRESENT],X,X,,X,X,X,X,,X,X,X,X,X,,X,X
+Supports Restorative Play [PRESENT],,X,,,,X,,X,,X,,X,,,X,X
+Supports Expressive Play [PRESENT],,,,,,,,,,,,,,,,
+Supports Play with Rules [PRESENT],,X,,,,,,,,,,X,,,,
+Supports Bio Play [PRESENT] ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+PLAY PROMOTING PLANTS - PLAY OPPORTUNITIES,,,,,,,,,,,,,,,,
+Creates Nooks or Secret Spaces [PRESENT],,X,,,,X,,X,,X,,X,,,X,X
+Nooks or Secret Spaces [DESCRIPTION],,Grows tall,,,,,,Groundcover for a secret space,,,,Grows tall,,,,The branches droop over to create a hiding space
+Provides Loose Parts/Play Props [PRESENT],X,,X,,X,X,X,X,X,X,X,,X,X,X,X
+Loose Parts/Play props [DESCRIPTION],Brown fruit,,"Plentiful flowers can be used in flower crown, tiny seeds have potential as play parts",,"Seeds are of interesting shape, but are not plentiful. Would need a well established patch to make this worth it for play parts.",Two-winged samaras,Bean pods,Berries,Seed pods,Fallen flowers and their follicles,Berries*,,Berries,Could be used for a flower crown,"Fruit, twigs, leaves, fallen bark ","Flowers, fruit, large fallen leaves in autumn"
+Provides Opportunities for Climbing & Swinging [PRESENT],,,,,,X,,,,X,,,,,X,
+Provides Opportunities for Climbing & Swinging [DESCRIPTION],,,,,,,,,,,,,,,,
+Can be used to create Mazes/Labyrinths/Spirals [PRESENT],,X,,,,,,,,,,X,,,,
+Includes Evocative or Unique Elements [PRESENT],X,X,,X,X,X,X,,X,X,X,X,X,,X,X
+Includes Evocative or Unique Elements [DESCRIPTION],Star shaped flowers,Interesting coloration. Blue green leaves with coppery-yellow flowers,,"Native American planting technique, large leaves",,Seeds spin as they fall to the ground,Native American planting technique,,Brightly colored trumpet shaped flowers,Flowers have 12-18 petals,"Broad evergreen leaves ""deck the halls""",,"Flowers have unique symmetrical configuration, the leaves are geometrically inclined as well. ",,,The flowers are fluffy and unique
+GROWING NEEDS & CHARACTERISTICS ,,,,,,,,,,,,,,,,
+Perennial,X,X,X,,X,X,,X,X,,X,X,X,X,X,X
+Annual,,,,X,,,X,,,,,,,,,
+Full Sun,,X,X,X,X,X,X,X,X,X (best flowering conditions),X,X,,X,X,X
+Partial Shade,X,X,,,,X,,X,X,X,X,,X,X,X,X
+Full Shade,,,,,,,,,,,,,,,,
+Hardiness Zone Range, 4-9,4,3-8,3-10,3-9, 3-8,5-13,4-9,, 5-8, 5-9, 2-11,2-6,3-8, 4-8, 3-9
+GENERAL CLASSIFICATION ,,,,,,,,,,,,,,,,
+Shrub,X,,,,,,,,,,,,,,,
+Grass,,,,,,,,,,,,,,,,
+Vine,,,,,,,,,X,,,,,,X,
+Tree,,,,,,X,,,,X,X,,,,,X
+Flower,,X,,,X,,,,,,,X,,,,
+Groundcovers,,,X,,,,,X,,,,,X,X,,
+"Other [Mosses, Ferns, Vegetables, etc.]",,,,X,,,X,,,,,,,,,
+Other [DESCRIPTION],,Herb,,Vegetable,,,Vegetable,,,,,Herb,,,,

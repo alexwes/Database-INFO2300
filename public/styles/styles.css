@@ -1,0 +1,321 @@
+body{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    max-width: 1000px;
+    background-color:#fff8dc;
+    font-family: sans-serif;
+}
+
+.header img{
+    width: 1000px;
+    height: 200px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+table {
+    border-style: solid;
+    border-spacing: 0px;
+    display: block;
+    overflow-x: auto;
+    border-top: 2px solid #000000;
+    border-bottom: 2px solid #000000;
+    margin: 30px 0 ;
+    font-size: 14px;
+    width: 1100px;
+}
+
+table td{
+    padding: 8px;
+    text-align: center;
+    padding-right: 16px;
+}
+
+.tablerows{
+    border-style: solid;
+    border-radius: 1px;
+}
+
+table tr:nth-child(even) {
+    /* alternate row color */
+    background-color: #cccccc;
+  }
+
+table tr:first-child{
+    font-weight: bold;
+    border-top: 30px;
+    border-bottom: 10px;
+}
+
+.align-right {
+    display: flex;
+    justify-content:flex-end;
+  }
+
+.insert-form-sensory{
+    display: flex;
+    flex-direction: column;
+}
+
+.insert-names{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+
+.insert-form{
+    display: flex;
+    flex-direction: row;
+}
+
+.insert-form div{
+    padding: 30px;
+}
+
+div span{
+    padding-top: 10px;
+}
+
+
+textarea{
+    width: 200px;
+}
+
+.feedback{
+    color: red;
+}
+
+.feedback-sort{
+    color: red;
+    width: 100px;
+}
+
+.centered{
+    display: inline-block;
+    margin-left: 400px;
+}
+
+.error{
+    margin: auto ;
+    display: flex;
+    flex-direction: column;
+    background-color: salmon;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 0 10px 10px 10px;
+    align-items: center;
+}
+
+.error button{
+
+    width: 55px;
+    height: 30px;
+}
+
+.error button a{
+    text-decoration: none;
+}
+
+header{
+    font-family: sans-serif;
+    color: #000;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.filter-form-css{
+    width: 470px;
+}
+
+.insert-form-css{
+    width: 500px;
+    margin: auto;
+}
+
+.insert-submit{
+    margin-right: 160px;
+    margin-bottom: 50px;
+}
+
+form{
+    background-color: rgb(233, 222, 185);
+    padding: 10px;
+}
+
+.center-item{
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+h2{
+    margin: auto;
+}
+
+h3{
+    margin: auto;
+}
+
+.filter-sort{
+    display: inline;
+}
+
+.vert{
+    display: flex;
+    flex-direction: column;
+}
+
+.top-forms{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    gap: 10px;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+
+nav{
+    text-align: center;
+    width: 97%;
+    margin-bottom: 25px;
+}
+
+.nav nav{
+    margin: auto;
+}
+
+nav ul li{
+    margin: auto;
+}
+
+li a{
+    text-decoration: none;
+    border-style: solid;
+    padding: 5px;
+}
+
+li a:hover{
+    font-size: 110%;
+}
+
+li a:visited{
+    color: black;
+}
+
+.media-catalog{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    width: 700px;
+    flex-wrap: wrap;
+}
+
+.media-catalog-img{
+    width: 180px;
+    height: 180px;
+}
+
+.catalog-name{
+    width: 100px;
+}
+
+.catalog-item{
+    margin: 0 10px;
+}
+
+#dropdown{
+    display: none;
+}
+
+.detailsimg{
+    width: 300px;
+    height: 300px;
+}
+
+.catalog-item{
+    width: 180px;
+    margin: 5px;
+    border: solid;
+    font-size: 11pt;
+    overflow-wrap: break-word;
+}
+
+.delete-edit{
+    width: 50px;
+    border: solid;
+    border-color: black;
+}
+
+.delete-edit:hover{
+    border-radius: 110%;
+}
+
+#delete-edit{
+    display: flex;
+    flex-direction: row;
+}
+
+.blurry{
+    opacity: .3;
+}
+
+@media (max-width: 1000px){
+    body{
+        width: 100%;
+        font-size: 30px;
+        margin: auto;
+    }
+    .header img{
+        width: 120%;
+        height: 100px;
+    }
+
+    .media-catalog{
+        display: flex;
+        flex-direction: row;
+        margin: auto;
+        width: 440px;
+        flex-wrap: wrap;
+    }
+
+    .media-catalog-img{
+        width: 190px;
+        height: 200px;
+    }
+
+    .catalog-name{
+        width: 190px;
+    }
+
+    .catalog-item{
+        width: 190px;
+        margin: 12px;
+        border: solid;
+        font-size: 15pt;
+        overflow-wrap: break-word;
+    }
+
+    #hamburger{
+        display: none;
+    }
+
+    #dropdown{
+        display: block;
+        margin: auto;
+    }
+
+    .feedback-sort{
+        width: 150px;
+    }
+
+    #filter-tag{
+        font-size: 15pt;
+    }
+}
